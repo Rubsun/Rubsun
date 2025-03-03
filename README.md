@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I’m Maksim Nudga
 
-<!--
-**Rubsun/Rubsun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+🔹 Coding in **Python-3.x** and **Go**  
+🔹 Experienced with **PostgreSQL**, **MongoDB** **Django/Flask/FastAPI**, **aiogram 3.x**  
+🔹 Automating tasks with **Bash/Shell**  
+🔹 Familiar with **HTML/CSS/JS**  
 
-Here are some ideas to get you started:
+## 📚 Interests  
+🤖 **Machine Learning**  
+📐 **Higher Mathematics**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact  
+✈️ [**Telegram**](https://t.me/Cinimin12) – always open to connect!  
